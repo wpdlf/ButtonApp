@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">ButtonApp</string>
-    <string name="greeting">정지원s Button</string>
+    <string name="button_name">정지원s Button</string>
 </resources>
